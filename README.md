@@ -1,13 +1,10 @@
 # GameOver(Unity)
-<p>
-    *Space Shooter Game
-    *Smart UI Panel
-    *Sound Effect
-    *Android Apk
-    *Google Addmob
-    
-    
-<p>
+<p> Space Shooter Game<p>
+<p>Smart UI Panel <p>
+<p>Sound Effect <p>
+<p>Android Apk <p>
+<p>Google Addmob <p>
+  
 
 # Project Display Image
 
