@@ -1,6 +1,7 @@
 # GameOver(Unity)
 <p> Space Shooter Game<p>
-<p>Smart UI Panel <p>
+<p> Mobile Touch Control<p>
+<p> UI Panel <p>
 <p>Sound Effect <p>
 <p>Android Apk <p>
 <p>Google Addmob <p>
